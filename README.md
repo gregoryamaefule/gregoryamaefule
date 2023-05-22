@@ -23,7 +23,7 @@ I'm Gregory Amaefule, I am pursuing a Bachelor's degree in Electrical and Electr
 |     5|   Bash        |
 
 <!-- - 🔭 I’m currently working on a  -->
-- 🌱 I’m currently learning build highly optimized software applicatopns on the web and cloud
+- 🌱 I’m currently learning to build highly optimized software applications on the web and cloud
 - 👯 I’m looking to collaborate on building impactful software solutions especially to reach the UN SDG gaols 
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about web development, cloud engineering and systems administration and design
